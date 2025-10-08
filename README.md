@@ -1,8 +1,6 @@
-##Summary
+## Summary
 Planning and execution on using AI to generate witness and client interviews for law student to practice interviewing.
 Final project for the Building AI course.
-
-## Background
 
 I teach at a U.S. law school.  Our students need to learn the essential skills involved in interviewing witnesses (and clients and others).  Unfortunately, most of our teaching has always been in the form of book learning, instead of skill learning.  This focus on transmitting intellectual knowlege rather than skills comes from many influences.  One big barrier to teaching skills, however, is that skills require practice, and practice requires setting up many opportunities.  We don't have 100 actors ready to play witnesses, and ready to give feedback about those practice sessions. Teaching interviewing, however, has become much more of a priority becuase it is now part of the bar exam for new lawyers.  We need to figure out how to expose 180 students each year to the fundamentals of interviewing by setting up practice scenarios.  AI can help us solve the problem of finding practice opportunities.
 
