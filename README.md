@@ -1,5 +1,4 @@
 ##Summary
-# Witness
 Planning and execution on using AI to generate witness and client interviews for law student to practice interviewing.
 Final project for the Building AI course.
 
